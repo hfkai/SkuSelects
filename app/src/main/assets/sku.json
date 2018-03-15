@@ -1,0 +1,103 @@
+{
+    "rows": {
+        "GoodsFormatSKU": [
+            {
+                "key": "{5.0寸},-,{土豪金},-,{128G}",
+                "Sku_Key": {
+                    "FormatNum": "fe16f894-b172-4176-a68f-b217c5ae299c",
+                    "picture": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=53705131,949005398&fm=27&gp=0.jpg",
+                    "Price": "20.00",
+                    "inventory": "100"
+                }
+            },
+            {
+                "key": "{4.5寸},-,{红},-,{64G}",
+                "Sku_Key": {
+                    "FormatNum": "38c846be-e3f9-4ec4-b119-ce7b1b85fa1b",
+                    "picture": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1374907339,1171616405&fm=27&gp=0.jpg",
+                    "Price": "1.00",
+                    "inventory": "100"
+                }
+            },
+            {
+                "key": "{5.0寸},-,{黑},-,{128G}",
+                "Sku_Key": {
+                    "FormatNum": "8cbd2d16-0da6-47e2-b72c-ea9b8704d642",
+                    "picture": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4247240002,194831378&fm=27&gp=0.jpg",
+                    "Price": "0.01",
+                    "inventory": "100"
+                }
+            }
+        ],
+        "Goods": {
+            "ModelAliasSKU": [
+                {
+                    "Name": "尺寸",
+                    "ModelAlias": [
+                        "5.0寸",
+                        "4.5寸"
+                    ]
+                },
+                {
+                    "Name": "颜色",
+                    "ModelAlias": [
+                        "土豪金",
+                        "红",
+                        "黑"
+                    ]
+                },
+                {
+                    "Name": "内存",
+                    "ModelAlias": [
+                        "128G",
+                        "64G"
+                    ]
+                },
+                {
+                    "Name": "",
+                    "ModelAlias": []
+                },
+                {
+                    "Name": "",
+                    "ModelAlias": []
+                }
+            ],
+            "Name": "测试商品小米6",
+            "picture": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3052542705,4224520497&fm=27&gp=0.jpg",
+            "showPrice": "20.00",
+            "minPrice": "0.01",
+            "SaleNumber": "52",
+            "ShowSale": "0",
+            "AllGoodsCount": 3,
+            "LatelyGoodsCount": 2,
+            "CollectionCount": 1
+        },
+        "GoodsParameter": [
+            {
+                "ParameterName": "颜色",
+                "ParameterVal": "白色\r\n                        "
+            },
+            {
+                "ParameterName": "颜色",
+                "ParameterVal": "黑色\r\n                        "
+            },
+            {
+                "ParameterName": "颜色",
+                "ParameterVal": "红色\r\n                        "
+            },
+            {
+                "ParameterName": "尺码",
+                "ParameterVal": "S\r\n                        "
+            }
+        ],
+        "GoodsOrderEvaluate": {
+            "anonymous": 0,
+            "FormatNum": "fe16f894-b172-4176-a68f-b217c5ae299c",
+            "FirstModelVal": "5.0寸",
+            "SecondModelVal": "土豪金",
+            "ThirdModelVal": "128G",
+            "FourthModelVal": "",
+            "FifthModelVal": ""
+        }
+    }
+}

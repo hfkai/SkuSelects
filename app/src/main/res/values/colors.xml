@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorUnbtncolor">#b5b5b5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="head_color">#b2000000</color>
+    <color name="grey">#F2F2F4</color>
+    <color name="bg_change">#6b6b70</color>
+    <color name="head_change">#55555d</color>
+
+    <color name="head_color_2">#55555D</color>
+    <color name="bank_color">#8CD1C9</color>
+    <color name="green">#e581ff02</color>
+    <color name="green_task">#027e6e</color>
+
+    <color name="green_detisl">#3ad733</color>
+    <color name="bg">#4d4d4d</color>
+
+    <color name="result_view">#b0000000</color>
+
+    <color name="listview_driver">#eeeeee</color>
+    <color name="gest_select">#009886</color>
+    <color name="gest_nomal">#c6c6c6</color>
+    <color name="green_qido">#009987</color><!--138974--><!--008E70-->
+    <color name="select_gray">#d2d2d2</color>
+    <color name="edit_bg">#c2c2c2</color>
+
+    <color name="choose">#686868</color>
+    <color name="cofirm">#01a4df</color>
+    <color name="gtext">#f9f9f9</color>
+
+
+    <!--  支付  -->
+    <color name="pay_img_color1">#8bb8e7</color>
+    <color name="pay_btn_color">#21c031</color>
+    <color name="pay_btn_color2">#18b4ed</color>
+    <color name="pay_xian_color">#fde095</color>
+    <color name="pay_ok_text">#f7262c</color>
+    <color name="text_black_color">#383838</color>
+    <color name="item_normal">#00000000</color>
+    <color name="middle_color">#8c8c8c</color>
+    <color name="fenhong_color">#fb6868</color>
+    <color name="white">#ffffff</color>
+    <color name="trade_title_grey">#646464</color>
+    <color name="iem_gray5">#E8E8E8</color>
+    <color name="hint_text_color">#ff999999</color>
+    <color name="table_line_color">#e6e6e9</color>
+    <color name="iem_gray2">#eeeeee</color>
+    <color name="line">#adadad</color>
+
+    <color name="ieaygray">#a3a3a3</color>
+    <color name="cs_title_bg">#F9F9F9</color>
+    <color name="gray_color2">#f2f2f2</color>
+    <color name="gray_color4">#dddddd</color>
+    <color name="transparent">#00000000</color>
+    <color name="top">#43000000</color>
+
+    <color name="top_title_color">#565656</color>
+    <color name="blue">#00BFFF</color>
+    <color name="top_background_color">#5eadff</color>
+    <!--  银色 -->
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="transparent2">#50000000</color>
+
+
+    <color name="orange">#FF5D3D</color>
+    <color name="orange_near">#ff8400</color>
+    <color name="right_title_bank">#22A797</color>
+    <!-- 灰色字体的颜色-->
+    <color name="neargreycolor">#b1b1b1</color>
+    <color name="textgreycolcr">#8D8D8D</color>
+    <color name="textorangecolor">#F6791D</color>
+    <color name="textgreencolor">#009987</color>
+    <color name="textblacktransparent">#55555B</color>
+    <color name="textgreycolor">#858585</color>
+    <color name="textbluecolor">#0090FF</color>
+    <color name="textredcolor">#552223</color>
+    <color name="textyellowcolor">#FF8400</color>
+    <!-- 顶部的颜色-->
+    <color name="headbackground">#55555D</color>
+    <!-- 现金-->
+    <color name="grey3">#EBEBEB</color>
+    <color name="jinse">#e2d06c</color>
+    <color name="blue_line">#0382e5</color>
+
+    <!-- 搜索背景-->
+    <color name="search_back">#EBEBEB</color>
+    <color name="order_of_good_back">#19C8B3</color>
+
+    <color name="iem_gray">#DADCD9</color>
+    <color name="city_side">#777777</color>
+    <color name="settingtextcolor">#424242</color>
+
+    <color name="translate">#00000000</color>
+    <color name="fukuang_green">#2d9b69</color>
+
+    <color name="shoufu">#009987</color>
+
+    <color name="orange_color">#fd8301</color>
+    <color name="fukuangcolor">#bf6504</color>
+
+    <color name="coutaodetial">#5047a2</color>
+
+    <color name="price_red">#fd1010</color>
+    <color name="delete_price">#dadada</color>
+    <color name="btn_chen">#fd8301</color>
+    <color name="btn_chen_press">#a45603</color>
+    <color name="gray_my">#f1f1f3</color>
+    <color name="pinggroup_color">#f9c48b</color>
+    <color name="pinggroup_two">#fd8301</color>
+    <color name="view_color">#DEDEDE</color>
+    <color name="lineGrayColor">#ffb2b2b2</color>
+    <color name="linexian">#e4e4e4</color>
+
+    <color name="colorMoney">#fff4511e</color>
+    <color name="colorText">#666666</color>
+    <color name="backGroundColor">#F5F5F5</color>
+</resources>

@@ -1,0 +1,54 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="15dp"
+            android:textColor="@color/text_black_color"
+            android:text="购买数量" />
+
+        <ImageView
+            android:id="@+id/pop_reduce"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@drawable/sub_number"
+            android:layout_gravity="center_vertical" />
+
+        <TextView
+            android:id="@+id/pop_num"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:gravity="center"
+            android:padding="6dp"
+            android:text="1"
+            android:textColor="#231F20" />
+
+        <ImageView
+            android:id="@+id/pop_add"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/add_number"
+            android:layout_gravity="center_vertical"  />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/lineGrayColor" />
+</LinearLayout>
